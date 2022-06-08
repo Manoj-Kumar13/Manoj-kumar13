@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/manoj-kumar13/)
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I play games more than i code
+- ⚡ Fun fact: ... I play games more than I code

@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/manoj-kumar13/)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I play games more than I code
+
+
+![Manoj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manoj-Kumar13&show_icons=true&theme=radical&hide=stars)

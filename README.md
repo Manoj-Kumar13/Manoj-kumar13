@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... MERN Stack
 - 🤔 I’m looking for help with ... React Native
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/manoj-kumar13/)
+- 📫 How to reach me: ... **Mjmails0713@gmail.com**
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I play games more than I code
 

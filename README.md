@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ... Machine Learning
 - 🌱 I’m currently learning ... DSA
 - 👯 I’m looking to collaborate on ... MERN Stack
-- 🤔 I’m looking for help with ... React Native
+- 🤔 I’m looking for help with ... Raspberry Pi
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... **Mjmails0713@gmail.com**
 - 😄 Pronouns: ... He/Him

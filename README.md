@@ -18,4 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... I play games more than I code
 
 
-![Manoj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manoj-Kumar13&show_icons=true&theme=radical&hide=stars)
+<!-- ![Manoj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manoj-Kumar13&show_icons=true&theme=radical&hide=stars) -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Manoj-kumar13
+&show_icons=true&locale=en&layout=compact" alt="Manoj-kumar13
+" /></p>

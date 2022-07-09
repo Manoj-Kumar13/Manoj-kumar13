@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 
 
 <!-- ![Manoj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manoj-Kumar13&show_icons=true&theme=radical&hide=stars) -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Manoj-kumar13&show_icons=true&locale=en" alt="Manoj-kumar13" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Manoj-kumar13&show_icons=true&locale=en&layout=compact" alt="Manoj-kumar13" /></p>

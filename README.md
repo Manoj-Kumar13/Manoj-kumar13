@@ -8,7 +8,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Learning HTML
+- 🔭 I’m currently working on ... Improving programming concepts
 - 🌱 I’m currently learning ... DSA and Web Dev
 - 👯 I’m looking to collaborate on ... MERN Stack
 - 🤔 I’m looking for help with ... React Native

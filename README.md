@@ -8,10 +8,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Machine Learning
-- 🌱 I’m currently learning ... DSA
+- 🔭 I’m currently working on ... Learning HTML
+- 🌱 I’m currently learning ... DSA and Web Dev
 - 👯 I’m looking to collaborate on ... MERN Stack
-- 🤔 I’m looking for help with ... Raspberry Pi
+- 🤔 I’m looking for help with ... React Native
 - 💬 Ask me about ... Anything
 - 📫 How to reach me ... **Mjmails0713@gmail.com**
 - 😄 Pronouns: ... He/Him

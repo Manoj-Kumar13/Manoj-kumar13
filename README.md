@@ -10,12 +10,12 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Improving programming concepts
 - 🌱 I’m currently learning ... DSA and Web Dev
-- 👯 I’m looking to collaborate on ... MERN Stack
-- 🤔 I’m looking for help with ... React Native
+- 👯 I’m looking to collaborate on ... React Native
+- 🤔 I’m looking for help with ... Open Source
 - 💬 Ask me about ... Anything
 - 📫 How to reach me ... **Mjmails0713@gmail.com**
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I play games more than I code
+- ⚡ Fun fact: ... Big God of war fan!!
 
 
 ![Manoj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manoj-Kumar13&show_icons=true&theme=radical&hide=stars)

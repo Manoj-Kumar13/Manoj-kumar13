@@ -8,7 +8,7 @@
 
 
 - 🔭 I’m currently working on ... Improving programming concepts
-- 🌱 I’m currently learning ... DSA and Web Dev
+- 🌱 I’m currently learning ... DSA, Web Dev and Python
 - 👯 I’m looking to collaborate on ... React Native
 - 🤔 I’m looking for help with ... Open Source
 - 💬 Ask me about ... Anything

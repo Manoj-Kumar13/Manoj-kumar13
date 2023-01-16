@@ -14,7 +14,7 @@
 - 💬 Ask me about ... Anything
 - 📫 How to reach me ... **Mjmails0713@gmail.com**
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... Big God of war fan!!
+- ⚡ Fun fact: ... God of war 5 is out, Gift me a PS5 !!
 
 
 ![Manoj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manoj-Kumar13&show_icons=true&theme=radical&hide=stars)

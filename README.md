@@ -8,13 +8,12 @@
 
 
 - 🔭 I’m currently working on ... Improving programming concepts
-- 🌱 I’m currently learning ... DSA, Web Dev and Python
+- 🌱 I’m currently learning ... Web Dev, Python and Automation
 - 👯 I’m looking to collaborate on ... React Native
 - 🤔 I’m looking for help with ... Open Source
-- 💬 Ask me about ... Anything
+- 💬 Ask me about ... Whatever you like!
 - 📫 How to reach me ... **Mjmails0713@gmail.com**
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... God of war 5 is out, Gift me a PS5 !!
+- 😄 Fun fact: ... The root is at the top of the tree
 
 
 ![Manoj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manoj-Kumar13&show_icons=true&theme=radical&hide=stars)
